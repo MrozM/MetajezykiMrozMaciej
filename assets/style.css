@@ -1,0 +1,48 @@
+body{background-color: #fff;font-family: 'Raleway', sans-serif;}
+
+
+h1,h2,h3,h4,h5,h6{font-family:'Old Standard TT', serif;line-height: 1em;margin: 0;}
+h1{font-size: 5em;}
+h1.title,h2{font-size: 2em;line-height: 3em;}
+h3{font-size: 1.5em; margin-bottom: 0.70em;}
+h4{font-size: 1.25em; margin-bottom: 0.75em;}
+p{margin-bottom: 1em;line-height: 1.5em;}
+.spacer{padding:6em 0; }
+.contact-header{ color: #9B111E;}
+.btn_submit{color: #9B111E;}
+.btn_submit:hover{color: #fff; background-color: #9B111E; transition: ease 0.3s;}
+#information{background-color: #fff;}
+.gallery .gallery-image{margin-bottom: 2em;display: inline-block;}
+.gallery .gallery-image img{width: 100%;}
+#contact {background-color: #eeeeee;}
+
+/*nav*/
+.navbar{margin: 0;}
+.navbar-nav{margin:0 -15px;}
+.navbar-nav > li > a{font-size: 1em;line-height: 4.26em;padding: 10px 0 10px 30px;}
+.navbar-nav > li > a:hover{transition: ease 0.3s; color: #9B111E !important;}
+.navbar-default{border:none;background: #eeeeee;}
+.navbar-brand{height: 80px;}
+.logo{color: #9B111E; font-size: 2em;}
+/*nav*/
+
+/*slider*/
+.banner {position: relative;color: #fff;}
+.banner p{font:300 1.35em/4em 'Old Standard TT', serif;margin:0; }
+.banner img.img-responsive{width: 100%;}
+.banner .welcome-message{position: absolute;left: 0;right:0;bottom:0;top:0;text-align: center;}
+.banner .welcome-message .wrap-info{display: table;height: 100%;width: 100%;}
+.banner .welcome-message .wrap-info .information{display: table-cell;vertical-align: middle;}
+.banner .arrow-nav{position: absolute;bottom:-3.5em;background-color: #9B111E;height: 7em;width: 7em;display: inline-block;z-index: 100;left: 50%;margin-left: -52px;color: #fff;border-radius: 50%;}
+.banner .arrow-nav i{font-size: 5em;line-height:105px;}
+.banner .arrow-nav:hover{background: #fff; color: #9B111E; transition: 0.3s ease;}
+/*slider*/
+
+
+/*footer*/
+footer {background-color: #eeeeee;}
+footer.spacer{padding: 3em 0;}
+footer h4{color: #9B111E;}
+footer a,footer p{line-height: 1.5em;font-size: 0.85em;color: #9B111E;}
+/*footer*/
+
